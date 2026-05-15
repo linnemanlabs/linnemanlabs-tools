@@ -4,7 +4,7 @@ Unprivileged keylogging on Wayland via the D-Bus accessibility KeyboardMonitor i
 
 Confirmed on KDE Plasma / KWin 6.3.90+ and GNOME / Mutter 48.0+.
 
-Full writeup: [Hello, my name is Orca](https://linnemanlabs.com/blog/posts/hello-my-name-is-orca/)
+Full writeup: [Hello, my name is Orca](https://linnemanlabs.com/posts/hello-my-name-is-orca/)
 
 ## Contents
 
